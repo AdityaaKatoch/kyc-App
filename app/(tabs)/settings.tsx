@@ -6,6 +6,7 @@
 +import { router } from 'expo-router';
 
  export default function SettingsScreen() {
+ }
 @@ .. @@
          <TouchableOpacity style={styles.settingRow}>
            <HelpCircle size={20} color="#64748B" />
