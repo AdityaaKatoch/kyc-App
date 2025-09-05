@@ -4,6 +4,7 @@
 -import { Globe, Volume2, Shield, CircleHelp as HelpCircle, Info, ChevronRight } from 'lucide-react-native';
 +import { Globe, Volume2, Shield, CircleHelp as HelpCircle, Info, ChevronRight, TriangleAlert as AlertTriangle, Phone } from 'lucide-react-native';
 +import { router } from 'expo-router';
+import { Linking } from 'react-native';
 
  export default function SettingsScreen() {
  }

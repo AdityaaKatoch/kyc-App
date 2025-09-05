@@ -1,7 +1,7 @@
 import React from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, ScrollView } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView, Linking } from 'react-native';
 import { router } from 'expo-router';
-import { ArrowLeft, BookOpen, FileText, Camera, Shield, CircleHelp as HelpCircle, Play } from 'lucide-react-native';
+import { ArrowLeft, BookOpen, FileText, Camera, Shield, CircleHelp as HelpCircle, Play, Phone, MessageCircle, TriangleAlert as AlertTriangle } from 'lucide-react-native';
 
 const guidanceTopics = [
   {

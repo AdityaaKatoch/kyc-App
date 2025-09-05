@@ -200,7 +200,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     paddingVertical: 18,
-    borderRadius: 12',
+    borderRadius: 12,
     gap: 8,
   },
   continueButtonDisabled: {
